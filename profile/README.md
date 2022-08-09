@@ -40,19 +40,19 @@
 <td>&nbsp;</td>
 <td><a href="https://github.com/Relluem94s/CaptureSpleef" target="_blank"><img src="https://img.relluem94.de/logos/app/capturespleef.png" alt="CaptureSpleef" height="50"></a></td>
 <td>&nbsp;</td>
-<td><a href="cms.php?s=IchVermisseDich" target="_blank"><img src="https://img.relluem94.de/logos/movie/ichvermissedich.png" alt="" height="50"></a></td>
+<td><a href="https://www.relluem94.de/cms.php?s=IchVermisseDich" target="_blank"><img src="https://img.relluem94.de/logos/movie/ichvermissedich.png" alt="" height="50"></a></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td><a href="https://github.com/Relluem94s/RelluEssentials" target="_blank"><img src="https://img.relluem94.de/logos/app/relluessentials.png" alt="RelluEssentials" height="50"></a></td>
 <td>&nbsp;</td>
-<td><a href="cms.php?s=UmweltTipps" target="_blank"><img src="https://img.relluem94.de/logos/movie/umwelttipps.png" alt="" height="50"></a></td>
+<td><a href="https://www.relluem94.de/cms.php?s=UmweltTipps" target="_blank"><img src="https://img.relluem94.de/logos/movie/umwelttipps.png" alt="" height="50"></a></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td><a href="https://github.com/Relluem94s/" target="_blank"><img src="https://img.relluem94.de/logos/app/rellusga.png" alt="RelluSGA" height="50"></a></td>
 <td>&nbsp;</td>
-<td><a href="cms.php?s=RePoLu" target="_blank"><img src="https://img.relluem94.de/logos/movie/reportageludwigshafen.png" alt="" height="50"></a></td>
+<td><a href="https://www.relluem94.de/cms.php?s=RePoLu" target="_blank"><img src="https://img.relluem94.de/logos/movie/reportageludwigshafen.png" alt="" height="50"></a></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
